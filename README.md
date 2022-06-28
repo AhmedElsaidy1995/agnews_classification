@@ -1,4 +1,4 @@
-# agnews_classification
+# AG News Classification
 AG is a collection of more than 1 million news articles. 
 News articles have been gathered from more than 2000  news sources by ComeToMyHead in more than 1 year of activity. 
 ComeToMyHead is an academic news search engine which has been running since July, 2004. 
