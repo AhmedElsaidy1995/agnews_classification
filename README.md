@@ -10,3 +10,8 @@ The AG's news topic classification dataset is constructed by Xiang Zhang (xiang.
 It is used as a text classification benchmark in the following paper: 
 Xiang Zhang, Junbo Zhao, Yann LeCun. Character-level Convolutional Networks for Text Classification. 
 Advances in Neural Information Processing Systems 28 (NIPS 2015).
+
+# Model 
+Using bidirectional will run our inputs in two ways, one from past to future and one from future to past and what differs this approach from unidirectional is that in the LSTM that runs backwards we preserve information from the future and using the two hidden states combined we are able in any point in time to preserve information from both past and future.
+
+
